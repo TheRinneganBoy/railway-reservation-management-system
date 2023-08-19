@@ -1,4 +1,4 @@
-# railway reservation management system
+# TrainMachan.com
  This Project submitted in partial fulfilment of Practical Examination for Class XII, All India Senior Secondary Certificate Examination.
 
 INTRODUCTION:
@@ -7,7 +7,7 @@ INTRODUCTION:
 
 OBJECTIVE: 
 
- This project is on Railway Reservation System using connectivity between Python and MySQL. This project is based on the Chennai Suburban Railway. This Project is named as TrainTicket.com
+ This project is on Railway Reservation System using connectivity between Python and MySQL. This project is based on the Chennai Suburban Railway. This Project is named as TrainMachan.com
 
 DESCRIPTON:
 
